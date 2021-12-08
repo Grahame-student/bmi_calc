@@ -19,7 +19,7 @@ rem - The code to be assessed must have been build sucessfully, the wrong memory
 rem activate the script's virtual environment so that we have access to the correct packages
 call venv/Scripts/activate
 
-python main.py
+python bmi_app.py
 
 rem disable the script's virtual environment so that we are using the system settings again
 call venv/Scripts/deactivate
