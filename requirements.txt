@@ -3,4 +3,4 @@ coverage==6.2
 mock==4.0.3
 pyqt5==5.15.4
 pyqt5-tools==5.15.4.3.2
-pytest==6.2.5
+pytest==7.0.0
