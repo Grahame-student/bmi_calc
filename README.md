@@ -1,8 +1,8 @@
 # bmi_calc
-[![Run Python Tests](https://github.com/grahame-student/bmi_calc/actions/workflows/unit_test.yml/badge.svg)](https://github.com/grahame-student/bmi_calc/actions/workflows/unit_test.yml)[![codecov](https://codecov.io/gh/Grahame-student/bmi_calc/main/graph/badge.svg?token=IUCZ0N6MU8)](https://codecov.io/gh/Grahame-student/bmi_calc)
+[![Run Python Tests](https://github.com/grahame-student/bmi_calc/actions/workflows/unit_test.yml/badge.svg)](https://github.com/grahame-student/bmi_calc/actions/workflows/unit_test.yml)[![codecov](https://codecov.io/gh/Grahame-student/bmi_calc/branch/main/graph/badge.svg?token=YT2UYXPE69)](https://codecov.io/gh/Grahame-student/bmi_calc)
 
 Code Coverage map
-[![Coverage](https://codecov.io/gh/Grahame-student/bmi_calc/branch/main/graphs/icicle.svg?token=IUCZ0N6MU8)](https://codecov.io/gh/Grahame-student/bmi_calc/branch/main/graphs/icicle.svg?token=IUCZ0N6MU8)
+[![Coverage](https://codecov.io/gh/Grahame-student/bmi_calc/branch/main/graphs/icicle.svg?token=YT2UYXPE69)](https://codecov.io/gh/Grahame-student/bmi_calc/branch/main/graphs/icicle.svg?token=IUCZ0N6MU8)
 
 Example BMI calculator application using QT5 and python
 
