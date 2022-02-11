@@ -12,7 +12,7 @@ def main():
     main_window = QtWidgets.QMainWindow()
     ui = UiMainWindow()
     ui.setup_ui(main_window)
-    controller = BmiController(ui, BmiCalc(1, 1))
+    _ = BmiController(ui, BmiCalc(1, 1))
     main_window.show()
     sys.exit(app.exec_())
 
