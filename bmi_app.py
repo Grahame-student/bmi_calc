@@ -1,10 +1,10 @@
 import sys
 
-from PyQt5 import QtWidgets
-
 from bmi_calculator import BmiCalc
 from bmi_controller import BmiController
 from main import UiMainWindow
+
+from PyQt5 import QtWidgets
 
 
 def main():
