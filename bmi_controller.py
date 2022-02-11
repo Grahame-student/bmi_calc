@@ -21,7 +21,7 @@ class BmiController:
         self.display_bmi()
 
     def init_values(self, window):
-        _translate = QtCore.QCoreApplication.translate
+        _ = QtCore.QCoreApplication.translate
         window.spin_height.setValue(self.dataModel.height)
         window.spin_weight.setValue(self.dataModel.weight)
         self.display_bmi()
