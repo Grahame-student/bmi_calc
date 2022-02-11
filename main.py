@@ -27,7 +27,9 @@ class UiMainWindow(object):
         self.line_output = QtWidgets.QLineEdit(self.centralwidget)
         self.line_output.setObjectName("line_output")
         self.line_output.setReadOnly(True)
-        self.formLayout.setWidget(0, QtWidgets.QFormLayout.SpanningRole, self.line_output)
+        self.formLayout.setWidget(
+            0, QtWidgets.QFormLayout.SpanningRole, self.line_output
+        )
         self.lbl_height = QtWidgets.QLabel(self.centralwidget)
         self.lbl_height.setObjectName("lbl_height")
         self.formLayout.setWidget(1, QtWidgets.QFormLayout.LabelRole, self.lbl_height)
