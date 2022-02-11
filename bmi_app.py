@@ -7,6 +7,7 @@ from main import UiMainWindow
 
 def main():
     import sys
+    
     app = QtWidgets.QApplication(sys.argv)
     main_window = QtWidgets.QMainWindow()
     ui = UiMainWindow()
