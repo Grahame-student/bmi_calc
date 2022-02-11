@@ -20,6 +20,6 @@ class BmiCalc:
 
     def get_bmi(self):
         if self.height == 0:
-            return f'0'
+            return f"0"
         else:
-            return f'{self.weight / (self.height * self.height)}'
+            return f"{self.weight / (self.height * self.height)}"
