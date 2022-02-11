@@ -1,3 +1,5 @@
+import sys
+
 from PyQt5 import QtWidgets
 
 from bmi_calculator import BmiCalc
@@ -6,8 +8,6 @@ from main import UiMainWindow
 
 
 def main():
-    import sys
-    
     app = QtWidgets.QApplication(sys.argv)
     main_window = QtWidgets.QMainWindow()
     ui = UiMainWindow()
