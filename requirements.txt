@@ -2,5 +2,5 @@ pyhamcrest==2.0.3
 mock==4.0.3
 pyqt5==5.15.4
 pyqt5-tools==5.15.4.3.2
-pytest==7.0.1
+pytest==7.1.0
 pytest-cov==3.0.0
